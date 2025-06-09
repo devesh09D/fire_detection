@@ -78,7 +78,7 @@ Request Body: Multipart form-data containing image files.
 /api/status
 Method: GET
 
-Description: Retrieves the current status and detection statistics.
+ Retrieves the current status and detection statistics.
 
 🧪 Fire Detection Logic
 Converts each video frame to multiple color spaces (HSV, LAB).
@@ -120,7 +120,7 @@ NumPy
 
 Install all dependencies using:
 
-bash
+
 
 pip install -r requirements.txt
 🛠️ Future Enhancements
@@ -137,17 +137,16 @@ Fork the repository.
 
 Create a new branch for your feature:
 
-bash
 
 git checkout -b feature-name
 Commit your changes:
 
-bash
+
 
 git commit -m "Add your message here"
 Push to your branch:
 
-bash
+
 
 git push origin feature-name
 Submit a pull request!
